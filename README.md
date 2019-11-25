@@ -1,4 +1,8 @@
 # hello-boy
 Pierwsze repozytorium
 
-Cześć, jestem tutaj
+Select * 
+from mara
+into corresponding fields of table it_mara
+where
+matnr in s_matnr .
